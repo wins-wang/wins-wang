@@ -19,7 +19,7 @@ I bridge theory and practice across the full machine learning lifecycle—from P
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![MLX](https://img.shields.io/badge/MLX-000000?style=flat&logo=apple&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-4B8BBE?style=flat)
-![GridMaster](https://img.shields.io/badge/GridMaster-AutoML-blueviolet?style=flat)
+[![GridMaster](https://img.shields.io/badge/GridMaster-AutoML-1b2733?style=flat&logo=https://raw.githubusercontent.com/wins-wang/GridMaster/refs/heads/main/assets/GridMaster.svg&logoWidth=20)](https://github.com/wins-wang/GridMaster)
 
 ---
 
