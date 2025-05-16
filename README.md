@@ -128,19 +128,19 @@ I bridge theory and practice across the full machine learning lifecycle—from P
 
 
 <p align="center">
-  <a href="https://winston-wang.com" target="_blank" title="Visit My Website">
+  <a href="https://winston-wang.com" target="_blank" rel="noopener noreferrer" title="Visit My Website">
     <img src="https://cdn.winston-wang.com/wp-content/uploads/2025/05/logo.svg" width="40" alt="Website Logo" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/wins-wang/GridMaster" target="_blank" title="GridMaster on GitHub">
+  <a href="https://gridmaster.readthedocs.io/en/main/" target="_blank" rel="noopener noreferrer" title="GridMaster Documentation">
     <img src="https://cdn.winston-wang.com/wp-content/uploads/2025/05/Round.svg" width="40" alt="GridMaster Logo" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://winston-wang.medium.com" target="_blank" title="Winston on Medium">
+  <a href="https://winston-wang.medium.com" target="_blank" rel="noopener noreferrer" title="Winston on Medium">
     <img src="https://cdn.winston-wang.com/wp-content/uploads/2025/05/Medium-Round-White.svg" width="40" alt="Medium Logo" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/win-wang" target="_blank" title="LinkedIn Profile">
+  <a href="https://www.linkedin.com/in/win-wang" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" alt="LinkedIn Logo" />
   </a>
 </p>
