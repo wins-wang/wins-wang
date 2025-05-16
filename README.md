@@ -125,23 +125,21 @@ I bridge theory and practice across the full machine learning lifecycle—from P
 
 ---
 
-
-
 <p align="center">
   <a href="https://winston-wang.com">
-    <img src="https://cdn.winston-wang.com/wp-content/uploads/2025/05/logo.svg" height="40" alt="Website" style="border: 0;" />
+    <img src="https://cdn.winston-wang.com/wp-content/uploads/2025/05/logo.svg" height="40" alt="Personal Website" style="border: none; outline: none;" />
   </a>
   &nbsp;&nbsp;
   <a href="https://gridmaster.readthedocs.io/en/main/">
-    <img src="https://cdn.winston-wang.com/wp-content/uploads/2025/05/Round.svg" width="40" alt="GridMaster" style="border: 0;" />
+    <img src="https://cdn.winston-wang.com/wp-content/uploads/2025/05/Round.svg" height="40" alt="GridMaster Docs" style="border: none; outline: none;" />
   </a>
   &nbsp;&nbsp;
   <a href="https://winston-wang.medium.com">
-    <img src="https://cdn.winston-wang.com/wp-content/uploads/2025/05/Medium-Round-White.svg" height="40" alt="Medium" style="border: 0;" />
+    <img src="https://cdn.winston-wang.com/wp-content/uploads/2025/05/Medium-Round-White.svg" height="40" alt="Medium Blog" style="border: none; outline: none;" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/win-wang">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" alt="LinkedIn" style="border: 0;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40" alt="LinkedIn Profile" style="border: none; outline: none;" />
   </a>
 </p>
 
