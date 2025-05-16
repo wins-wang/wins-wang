@@ -128,22 +128,15 @@ I bridge theory and practice across the full machine learning lifecycle—from P
 
 
 <p align="center">
-  <a href="https://winston-wang.com" target="_blank" rel="noopener noreferrer" title="Visit My Website">
-    <img src="https://cdn.winston-wang.com/wp-content/uploads/2025/05/logo.svg" width="40" alt="Website Logo" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://gridmaster.readthedocs.io/en/main/" target="_blank" rel="noopener noreferrer" title="GridMaster Documentation">
-    <img src="https://cdn.winston-wang.com/wp-content/uploads/2025/05/Round.svg" width="40" alt="GridMaster Logo" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://winston-wang.medium.com" target="_blank" rel="noopener noreferrer" title="Winston on Medium">
-    <img src="https://cdn.winston-wang.com/wp-content/uploads/2025/05/Medium-Round-White.svg" width="40" alt="Medium Logo" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/win-wang" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" alt="LinkedIn Logo" />
-  </a>
+  <img src="https://cdn.winston-wang.com/wp-content/uploads/2025/05/logo.svg" height="40" alt="Website" onclick="window.open('https://winston-wang.com', '_blank')" style="cursor:pointer;" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.winston-wang.com/wp-content/uploads/2025/05/Round.svg" width="40" alt="GridMaster" onclick="window.open('https://gridmaster.readthedocs.io/en/main/', '_blank')" style="cursor:pointer;" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.winston-wang.com/wp-content/uploads/2025/05/Medium-Round-White.svg" height="40" alt="Medium" onclick="window.open('https://winston-wang.medium.com', '_blank')" style="cursor:pointer;" />
+  &nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" alt="LinkedIn" onclick="window.open('https://www.linkedin.com/in/win-wang', '_blank')" style="cursor:pointer;" />
 </p>
+
 
 <p align="center">
   <i>Ideas are better when shared — let’s make something meaningful!</i>
