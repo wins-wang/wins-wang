@@ -33,7 +33,7 @@ I bridge theory and practice across the full machine learning lifecycle—from P
 ![LoRA](https://img.shields.io/badge/-LoRA-444?style=flat)
 ![QLoRA](https://img.shields.io/badge/-QLoRA-2E8B57?style=flat)
 ![LangChain](https://img.shields.io/badge/-LangChain-1f4544?style=flat&logo=langchain&logoColor=ffffff)
-![RAG | Hybrid Search](https://img.shields.io/badge/RAG-Hybrid%20Search-4F709C?style=flat&labelColor=2E3A59)
+![RAG | Hybrid Search](https://img.shields.io/badge/RAG-Hybrid%20Search-ffb400?style=flat&labelColor=2E3A59)
 ![AnythingLLM](https://img.shields.io/badge/AnythingLLM-RAG-4B8BBE?style=flat)
 
 ---
