@@ -5,7 +5,9 @@ I bridge theory and practice across the full machine learning lifecycle—from P
 🚀 Data Scientist with 4+ years of experience in ML, NLP, and AutoML.  
 🌱 Creator of [GridMaster](https://github.com/wins-wang/GridMaster) – An intuitive AutoML toolkit.  
 ✍️ I write technical tutorials and research summaries at [Medium](https://winston-wang.medium.com).  
-🌐 Visit my portfolio: [winston-wang.com](https://winston-wang.com)
+🌐 Visit my portfolio: [winston-wang.com](https://winston-wang.com).
+
+🤖 Explore My Personalized [RAG-powered AI chatbot](https://winston-wang.com).
 
 🧠 I build tools that simplify complexity, turning curiosity into clarity, and one data-driven solution at a time, I hope to make a meaningful contribution to the world.
 
@@ -31,7 +33,8 @@ I bridge theory and practice across the full machine learning lifecycle—from P
 ![LoRA](https://img.shields.io/badge/-LoRA-444?style=flat)
 ![QLoRA](https://img.shields.io/badge/-QLoRA-2E8B57?style=flat)
 ![LangChain](https://img.shields.io/badge/-LangChain-1f4544?style=flat&logo=langchain&logoColor=ffffff)
-![AnythingLLM](https://img.shields.io/badge/AnythingLLM-RAG%20Framework-4B8BBE?style=flat)
+![RAG | Hybrid Search](https://img.shields.io/badge/RAG-Hybrid%20Search-4F709C?style=flat&labelColor=2E3A59)
+![AnythingLLM](https://img.shields.io/badge/AnythingLLM-RAG-4B8BBE?style=flat)
 
 ---
 
