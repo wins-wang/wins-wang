@@ -48,6 +48,8 @@ I bridge theory and practice across the full machine learning lifecycle—from P
 ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=flat&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-181825?style=flat&logo=databricks&logoColor=red)
 
+**Certifications**: Microsoft Certified: Azure AI-900 • AWS Machine Learning Specialty (MLS-C01) — In Progress
+
 ---
 
 ### 📊 Visualization & Analysis
@@ -60,6 +62,16 @@ I bridge theory and practice across the full machine learning lifecycle—from P
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
+
+---
+
+### 🔧 Systems & Project Practices
+
+![Requirements Analysis](https://img.shields.io/badge/Requirements%20Analysis-0052CC?style=flat&logo=bookstack&logoColor=white)
+![System Modeling (UML/ERD)](https://img.shields.io/badge/System%20Modeling-UML%2FERD-4B9CD3?style=flat&logo=diagramdotnet&logoColor=white)
+![Agile (Scrum)](https://img.shields.io/badge/Agile-Scrum-2496ED?style=flat&logo=trello&logoColor=white)
+![Project Management](https://img.shields.io/badge/Project%20Management-Scope%20%26%20Risk-8A2BE2?style=flat&logo=gnometerminal&logoColor=white)
+![Rapid Prototyping](https://img.shields.io/badge/Rapid%20Prototyping-Low--code%2FSQL-FFB400?style=flat&logo=databricks&logoColor=white)
 ---
 
 <details>
